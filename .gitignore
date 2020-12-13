@@ -1,0 +1,8 @@
+node_modules
+node_modules/*.*
+.idea
+Asrock-B460m-ITX-AC-OC-EFI-2.0.1
+Asrock-B460m-ITX-AC-OC-EFI-2.0.1/*
+
+*.zip
+.DS_Store

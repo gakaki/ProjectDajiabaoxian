@@ -1,0 +1,15 @@
+{
+  "name": "projectdabao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"browser-sync start --server --files 'assets/*.css' --files 'assets/*.js' --files index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.26.3"
+  }
+}
